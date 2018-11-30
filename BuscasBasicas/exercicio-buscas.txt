@@ -1,0 +1,2 @@
+Implemente um algoritmo de busca em profundidade e um de busca em largura para um grafo onde cada vértice é o nome de uma pessoa e cada aresta é a relação entre duas pessoas.
+(Dica: Utilizar a estrutura implementada para resolver o exercício proposto no arquivo "EstruturasBasicas/exercicio-criar-grafo.txt")

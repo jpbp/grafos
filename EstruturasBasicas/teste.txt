@@ -1,0 +1,7 @@
+digraph G {
+thuza -- ribo [ label= parser ]
+thuza -- humil [ label= parser2 ]
+thuza -- job [ label= parzer ]
+ribo -- humil [ label= topparser ]
+sil -- job [ label= parzer ]
+}

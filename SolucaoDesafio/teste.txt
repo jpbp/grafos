@@ -1,0 +1,8 @@
+digraph G {
+brenex -> edu [ label= Chefe ]
+thuza -> ribo [ label= Chefe ]
+thuza -> joble [ label= Chefe ]
+thuza -> brenex [ label= Chefe ]
+silsil -> thuza [ label= Chefe ]
+niconico -> silsil [ label= Chefe ]
+}
